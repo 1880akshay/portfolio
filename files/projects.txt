@@ -1,5 +1,6 @@
 - Web Porfolio Terminal:
     I made this Ubuntu terminal based portfolio website written in JavaScript. I am not very good at designing, so gave the website a terminal look.
+    The website is hosted here: <a href="https://1880akshay.github.io/portfolio/" target="_blank">https://1880akshay.github.io/portfolio/</a>
     The complete code for this website can be found here: <a href="https://github.com/1880akshay/portfolio" target="_blank">https://github.com/1880akshay/portfolio</a>
 
 - CoviSahayata Mobile App:
