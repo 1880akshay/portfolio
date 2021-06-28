@@ -40,7 +40,7 @@ function typeNewCommand() {
 
 async function displayFileContents(cmd, filename) {
 
-    if(!files.includes(filename)) {
+    if(filename !== 'help.txt' && !files.includes(filename)) {
         $('#terminal').append(cmd + `: ` + filename + `: not found`);
         return;
     }
