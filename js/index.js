@@ -39,6 +39,12 @@ function typeNewCommand() {
 }
 
 async function displayFileContents(cmd, filename) {
+
+    if(!files.includes(filename)) {
+        $('#terminal').append(cmd + `: ` + filename + `: not found`);
+        return;
+    }
+
     //await fetch('static/files/'+filename)
     await fetch('files/'+filename)
     .then(res => res.text())
@@ -46,9 +52,6 @@ async function displayFileContents(cmd, filename) {
         //console.log(data);
         $('#terminal').append(`<div>`+data.replace(/ (?![^<]*>)/g, "&nbsp;").replace(/\n/g, "<br>")+`</div>`);
     })
-    .catch(err => {
-        $('#terminal').append(cmd + `: ` + filename + `: not found`);
-    });
 }
 
 function generateLink(name, href) {
