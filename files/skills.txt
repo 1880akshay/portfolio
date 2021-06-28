@@ -1,0 +1,6 @@
+- I am proficient in Web Development using Reactjs and nodejs. I am also familiar with older technologies like jQuery and php.
+- I have a working knowledge of MySQL and Firebase.
+- I also have a working knowledge of native mobile app development using Flutter and React Native.
+- I am proficient in C/C++ and Python.
+- I have a strong understanding of various data structures, algorithms and their applications.
+- I am familiar with Git and GitHub.

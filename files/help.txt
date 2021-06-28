@@ -1,0 +1,22 @@
+Command List:
+- help
+    Command: help
+    Display all available commands and their descriptions.
+
+- cat
+    Command: cat
+    Read and display the contents of a file on the screen. A list of files can be found using the command 'ls'.
+    Example: cat about_me.txt
+
+- cd
+    Command: cd
+    Go to a link. A list of links can be found using the command 'ls'.
+    Example: cd Linkedin
+
+- ls
+    Command: ls
+    List all the links and files available.
+
+- clear
+    Command: clear
+    Clear the terminal.

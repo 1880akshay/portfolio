@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+
+* {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 16px;
+    line-height: 1.2;
+    word-break: break-all;
+}
+
+body {
+    background-color: #181a1b;
+    color: #fff;
+}
+
+a {
+    color: #3391ff;
+}
+
+#terminal #autorun {
+    margin-left: 10px;
+}
+#terminal .user_domain_container {
+    display: flex;
+}
+#terminal .user_domain {
+    color: rgb(127, 255, 127);
+}
+#terminal .tilde {
+    color: #3391ff;
+}
+#terminal .cmd_input_area {
+    flex-grow: 1;
+}
+#terminal .cmd_input_area > form {
+    display: flex;
+}
+#terminal .cmd_input {
+    padding-left: 10px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    flex-grow: 1;
+}

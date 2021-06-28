@@ -1,0 +1,7 @@
+Welcome! 
+
+My name is Akshay Jain and I am a third year undergraduate student at IIT Kharagpur, majoring in Electronics and Electrical Communication Engineering.
+To know more about me, type 'cat about_me.txt' without the quotes.
+
+This is an interactive portfolio website, based on an Ubuntu Terminal.
+For a list of available commands, type 'help' without the quotes.

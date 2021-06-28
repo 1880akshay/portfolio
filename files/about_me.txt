@@ -1,0 +1,7 @@
+My name is Akshay Jain and I am a third year undergraduate student at IIT Kharagpur, majoring in Electronics and Electrical Communication Engineering.
+I cracked JEE in 2019 with an AIR of 896 and got admission in one of the most prestigious technical institutions of India.
+I was born and brought up in Delhi, India.
+
+I have a passion for Computer Science and Software Development and like to develop web applications and native mobile apps.
+I started programming when I was in class 10, and programming became a passion for me ever since. I started with frontend web development, but then explored various fields like Full Stack, Mobile app development and Data structures, algorithms.
+I am also a sports enthusiast and love playing Cricket, Badminton and Table Tennis.
