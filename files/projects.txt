@@ -6,4 +6,5 @@
     I made a native mobile app using Flutter and Firebase named CoviSahayata.
     The motivation behind this app was the lack of information regarding covid related resources among the people.
     This app provides a platform where people can submit their queries asking for leads of resources, and other people can message (in application chat) or call the person to provide the information.
+    The apk can be downloaded from here: <a href="https://github.com/1880akshay/Covid-App/blob/main/build/app/outputs/flutter-apk/app-release.apk" target="_blank">CoviSahayata.apk</a>
     The complete code for this app can be found here: <a href="https://github.com/1880akshay/Covid-App" target="_blank">https://github.com/1880akshay/Covid-App</a>
