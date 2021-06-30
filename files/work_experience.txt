@@ -1,3 +1,3 @@
 I have worked as a Web Developer Intern at Wheelbox Automotive Pvt. Ltd., an early stage startup, from June 2020 to July 2020.
-During the course of my internship, I developed the frontend of a home decor e-commerce website and integrated the backend with the frontend.
+During the course of my internship, I developed the frontend of a home decor e-commerce website in JavaScript and integrated the backend with the frontend.
 I also created various REST APIs in nodejs and maintained a detailed documentation of all API endpoints.
